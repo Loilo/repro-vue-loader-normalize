@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "vue-loader": "git+https://github.com/vuejs/vue-loader.git#next",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
+  }
+}
